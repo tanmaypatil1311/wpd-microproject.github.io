@@ -82,22 +82,43 @@ color: aqua;
 
 }
 @keyframes slide{
-    1%{background-image:url("Maharashtra.jpg");} 
-   12.5%{background-image: url("Maharashtra.jpg");} 
-   12.6%{background-image: url("Manali.jpg");} 
-   25%{background-image: url("Manali.jpg");} 
-   25.1%{background-image: url("Goa.jpg");} 
-   37.5%{background-image: url("Goa.jpg");}
-   37.6%{background-image: url("Himachal Pradesh.jpg");} 
-   50%{background-image: url("Himachal Pradesh.jpg");}
-   50.1%{background-image: url("Uti.jpg");} 
-   62.5%{background-image: url("Uti.jpg");} 
-   62.6%{background-image: url("Kashmir.jpg");}
-   75%{background-image: url("Kashmir.jpg");} 
-   75.1%{background-image: url("Shimla.jpg");}
-   87.5%{background-image: url("Shimla.jpg");}
-   87.6%{background-image:url("Rajasthan.jpg");}
+
+   0%{background-image:url("Maharashtra.jpg");} 
+
+   11.11%{background-image: url("Maharashtra.jpg");} 
+
+   11.2%{background-image: url("Manali.jpg");} 
+
+   22.22%{background-image: url("Manali.jpg");} 
+
+   22.3%{background-image: url("Goa.jpg");} 
+
+   33.33%{background-image: url("Goa.jpg");}
+
+   33.4%{background-image: url("Himachal Pradesh.jpg");} 
+
+   44.44%{background-image: url("Himachal Pradesh.jpg");}
+
+   44.5%{background-image: url("Uti.jpg");} 
+
+   55.55%{background-image: url("Uti.jpg");} 
+
+   55.6%{background-image: url("Kashmir.jpg");}
+
+   66.66%{background-image: url("Kashmir.jpg");} 
+
+   66.7%{background-image: url("Shimla.jpg");}
+
+   77.77%{background-image: url("Shimla.jpg");}
+
+   77.8%{background-image:url("Rajasthan.jpg");}
+
+   88.88%{background-image:url("Rajasthan.jpg");}
+
+   88.9%{background-image:url("Kerala.jpg");}
+
    100%{background-image:url("Kerala.jpg");}
+
 }
 @keyframes changetext  {
    0%{content: "Maharashtra";} 
