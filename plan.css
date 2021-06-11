@@ -53,9 +53,15 @@ section .b2{
     color: #000;
 }
 .change_content:after{
+
 content:'';
+
+font-family: 'Poppins', sans-serif;
+
 animation:changetext 40s infinite linear;
-color: rgb(67, 196, 121);
+
+color: aqua;
+
 }
 .nav-area li {
 	display: inline-block;
